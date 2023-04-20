@@ -1,14 +1,10 @@
-# globe-vue
+# Globe Data Visualization (Vue.js, ThreeJS)
 
-This template should help get you started developing with Vue 3 in Vite.
+This project visualizes GeoJSON data on a reactive globe and allows interaction using Vue.js
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Tech Stack
+- [Vue 3](https://vuejs.org/)
+- Globe using [ThreeJS/WebGL](https://globe.gl/)
 
 ## Project Setup
 
