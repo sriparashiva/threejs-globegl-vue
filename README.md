@@ -2,6 +2,10 @@
 
 This project visualizes GeoJSON data on a reactive globe and allows interaction using Vue.js
 
+<p align="center">
+<a href="https://threejs-globegl-vue.vercel.app/">🖥 Online Preview</a>
+</p>
+
 ## Tech Stack
 - [Vue 3](https://vuejs.org/)
 - Globe using [ThreeJS/WebGL](https://globe.gl/)
